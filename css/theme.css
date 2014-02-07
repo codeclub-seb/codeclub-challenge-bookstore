@@ -1,12 +1,11 @@
-/*
-    Document   : css/theme.css
-    Created on : 2014-01-30 01:46 PM
-    Author     : codeclub-seb
-    Description:
-    Purpose of the stylesheet follows.
-    To change this template use Tools | Templates.
-*/
 
-root {
-    display: block;
+.myt {
+    color: teal;
+}    
+.myp {
+    color: silver;
+}
+
+body {
+    background-color: #9C9703;
 }
